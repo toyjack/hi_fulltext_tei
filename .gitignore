@@ -1,4 +1,5 @@
 /output/*
+!.gitkeep
 /data/*
 !.gitkeep
 
